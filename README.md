@@ -10,7 +10,7 @@ Sou uma pessoa extremamente esforçada, focada em evoluir pessoal e profissional
 
 ---
 
-### 💻 No que estou trabalhando agora:
+### 💻 Estou trabalhando agora em:
 
 * 📊 **Dados & BI:** Especializando-me em transformar informações em decisões através de SQL e Power BI.
 * 🐍 **Desenvolvimento & IA:** Construindo lógica e automações com Python, focada em aplicações de Inteligência Artificial.
