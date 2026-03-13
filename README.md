@@ -35,7 +35,7 @@
 
 ---
 
-### 💻 No que estou trabalhando / What I'm working on:
+### 💻  What I'm working on:
 
 * 📊 **Dados & BI / Data & BI:** SQL, Power BI & Business Intelligence.
 * 🐍 **Desenvolvimento / Development:** Python & AI Applications.
