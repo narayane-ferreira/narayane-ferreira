@@ -1,43 +1,62 @@
-Estudante de Análise e Desenvolvimento de Sistemas com foco em dados, automação e resolução de problemas com tecnologia.
+#  I'm Narayane! 👋
 
-Atualmente desenvolvo projetos utilizando Python, SQL e Power BI, com foco em análise de dados, Business Intelligence e visualização de informações para apoiar a tomada de decisões.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇧🇷 Português</h3>
+      <p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Faculdade Cotemig (Jun/2028). Sou apaixonada por transformar dados em soluções inteligentes.</p>
+      
+      <h4>🚀 Sobre mim:</h4>
+      <ul>
+        <li><b>Extremamente esforçada:</b> Focada em evoluir diariamente como pessoa e profissional.</li>
+        <li><b>Resiliente:</b> Encaro desafios como chances de crescer.</li>
+        <li><b>Foco em Pessoas:</b> Minha bagagem com público me deu empatia e visão de usuário.</li>
+      </ul>
 
-Tenho experiência profissional em atendimento ao público e rotinas administrativas, o que contribuiu para o desenvolvimento de habilidades como organização de informações, comunicação e resolução de problemas.
+      <h4>🎯 Objetivo:</h4>
+      <p>Busco <b>Estágio ou Oportunidade Profissional</b> em Tecnologia (Dados, Software ou Inovação).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇺🇸 English</h3>
+      <p><b>Systems Analysis student</b> at Faculdade Cotemig (Expected June 2028). Passionate about turning data into smart solutions.</p>
+      
+      <h4>🚀 About me:</h4>
+      <ul>
+        <li><b>Extremely hardworking:</b> Focused on daily personal and professional evolution.</li>
+        <li><b>Resilient:</b> I see complex challenges as opportunities to grow.</li>
+        <li><b>People-centric:</b> My background in customer service gives me empathy and user-focused vision.</li>
+      </ul>
 
-Neste perfil compartilho projetos de análise de dados, bancos de dados e automação, aplicando na prática os conhecimentos que venho desenvolvendo na área de tecnologia.
-
-
-
-
+      <h4>🎯 Goal:</h4>
+      <p>Seeking an <b>Internship or Professional Opportunity</b> in Tech (Data, Software, or Innovation).</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 What I'm working on right now:
-* 🎓 **Degree:** B.S. in Systems Analysis and Development at Faculdade Cotemig (Expected June 2028).
-* 🐍 **Python & AI:** Deep diving into Python logic, automation, and Artificial Intelligence applications.
-* 📊 **Data Intelligence:** Mastering Power BI for Business Intelligence and Data Science fundamentals.
-* 🗄️ **Databases:** Enhancing my skills in SQL for complex queries and data management.
+### 💻 No que estou trabalhando / What I'm working on:
+
+* 📊 **Dados & BI / Data & BI:** SQL, Power BI & Business Intelligence.
+* 🐍 **Desenvolvimento / Development:** Python & AI Applications.
+* 💡 **Tecnologia Aplicada / Applied Tech:** Process optimization and digital solutions.
 
 ---
 
-### 🛠 Tech Stack & Tools:
+### 🛠 Tecnologias e Ferramentas / Tech Stack:
 * **Languages:** Python, SQL.
 * **Tools:** Power BI, Git, GitHub, VS Code, Google Workspace.
-* **Concepts:** Algorithms, Data Structures, Logic, BI, Data Analysis.
+* **Concepts:** Algorithms, Data Structures, UX (User Experience).
 
 ---
 
-### 📈 Career Goals:
-I am actively seeking an **Internship in Software Engineering** where I can contribute my analytical skills, learn from world-class engineers, and grow within a collaborative environment. I am particularly interested in how AI and Data can optimize user experiences.
+### 📫 Contato / Contact:
+
+* **E-mail:** narayaneferreirafrancisco@gmail.com
+* **Telefone/WhatsApp:** +55 31 9 8842-6884
+* **LinkedIn:** [https://www.linkedin.com/in/narayane-ferreira-b4bb04156/]
+* **Location:** Belo Horizonte, MG - Brazil 🇧🇷
 
 ---
 
-### 📫 How to reach me:
-* **Email:** [narayaneferreirafrancisco@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/feed/]
-* **Location:** Belo Horizonte / Minas Gerais (Hybrid)
-
----
-
-### ⚡ Fun Fact:
-I believe that my background in customer service and administration gives me a unique perspective on "User Experience" and "Problem Solving" in software development!
+> "Minha bagagem administrativa e o contato direto com pessoas me deram a base para resolver problemas com foco no impacto humano."
