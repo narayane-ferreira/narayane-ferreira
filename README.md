@@ -6,12 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Cotemig
 
 ### 🚀 Sobre mim e meu Mindset:
 
-Sou uma pessoa **extremamente esforçada** e acredito que o aprendizado contínuo é a base do sucesso. Minha trajetória é marcada pela dedicação e pela vontade de entregar sempre o meu melhor.
-
-* **Evolução Pessoal e Profissional:** Meu maior objetivo é evoluir diariamente. Tenho sede de conhecimento e encaro cada novo aprendizado como um passo para me tornar uma profissional de excelência.
-* **Resiliência e Garra:** Não tenho medo de desafios. Se eu não sei algo, eu estudo até aprender. Encaro problemas complexos como oportunidades de crescimento.
-* **Foco em Pessoas:** Minha experiência com atendimento ao público me deu uma visão única sobre empatia e comunicação. Sei ouvir as necessidades das pessoas para criar soluções tecnológicas que realmente ajudem o usuário.
-
+Sou uma pessoa **extremamente esforçada**, focada em evoluir pessoal e profissionalmente através do aprendizado contínuo. Minha experiência com o público me deu a empatia necessária para criar soluções tecnológicas que realmente ajudam as pessoas.
 ---
 
 ### 💻 No que estou trabalhando agora:
@@ -33,7 +28,7 @@ Sou uma pessoa **extremamente esforçada** e acredito que o aprendizado contínu
 
 ### 🎯 Objetivos de Carreira:
 
-Estou em busca de um ** Oportunidade Profissional** na área de Tecnologia. Tenho grande interesse em atuar com **Engenharia de Software, Análise de Dados ou Inovação**, onde eu possa aplicar meu esforço e minha vontade de aprender em projetos reais.
+Estou em busca de  ** Oportunidades Profissionais** na área de Tecnologia. Tenho grande interesse em atuar com **Engenharia de Software, Análise de Dados ou Inovação**, onde eu possa aplicar meu esforço e minha vontade de aprender em projetos reais.
 
 ---
 
