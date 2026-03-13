@@ -1,62 +1,50 @@
-#  I'm Narayane! 👋
+# Olá, eu sou a Narayane! 👋
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🇧🇷 Português</h3>
-      <p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Faculdade Cotemig (Jun/2028). Sou apaixonada por transformar dados em soluções inteligentes.</p>
-      
-      <h4>🚀 Sobre mim:</h4>
-      <ul>
-        <li><b>Extremamente esforçada:</b> Focada em evoluir diariamente como pessoa e profissional.</li>
-        <li><b>Resiliente:</b> Encaro desafios como chances de crescer.</li>
-        <li><b>Foco em Pessoas:</b> Minha bagagem com público me deu empatia e visão de usuário.</li>
-      </ul>
-
-      <h4>🎯 Objetivo:</h4>
-      <p>Busco <b>Estágio ou Oportunidade Profissional</b> em Tecnologia (Dados, Software ou Inovação).</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🇺🇸 English</h3>
-      <p><b>Systems Analysis student</b> at Faculdade Cotemig (Expected June 2028). Passionate about turning data into smart solutions.</p>
-      
-      <h4>🚀 About me:</h4>
-      <ul>
-        <li><b>Extremely hardworking:</b> Focused on daily personal and professional evolution.</li>
-        <li><b>Resilient:</b> I see complex challenges as opportunities to grow.</li>
-        <li><b>People-centric:</b> My background in customer service gives me empathy and user-focused vision.</li>
-      </ul>
-
-      <h4>🎯 Goal:</h4>
-      <p>Seeking an <b>Internship or Professional Opportunity</b> in Tech (Data, Software, or Innovation).</p>
-    </td>
-  </tr>
-</table>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Cotemig (previsão de formatura em Junho de 2028). Sou apaixonada por tecnologia e motivada pelo desafio de transformar dados em soluções inteligentes e processos eficientes.
 
 ---
 
-### 💻  What I'm working on:
+### 🚀 Sobre mim e meu Mindset:
 
-* 📊 **Dados & BI / Data & BI:** SQL, Power BI & Business Intelligence.
-* 🐍 **Desenvolvimento / Development:** Python & AI Applications.
-* 💡 **Tecnologia Aplicada / Applied Tech:** Process optimization and digital solutions.
+Sou uma pessoa **extremamente esforçada** e acredito que o aprendizado contínuo é a base do sucesso. Minha trajetória é marcada pela dedicação e pela vontade de entregar sempre o meu melhor.
 
----
-
-### 🛠 Tecnologias e Ferramentas / Tech Stack:
-* **Languages:** Python, SQL.
-* **Tools:** Power BI, Git, GitHub, VS Code, Google Workspace.
-* **Concepts:** Algorithms, Data Structures, UX (User Experience).
+* **Evolução Pessoal e Profissional:** Meu maior objetivo é evoluir diariamente. Tenho sede de conhecimento e encaro cada novo aprendizado como um passo para me tornar uma profissional de excelência.
+* **Resiliência e Garra:** Não tenho medo de desafios. Se eu não sei algo, eu estudo até aprender. Encaro problemas complexos como oportunidades de crescimento.
+* **Foco em Pessoas:** Minha experiência com atendimento ao público me deu uma visão única sobre empatia e comunicação. Sei ouvir as necessidades das pessoas para criar soluções tecnológicas que realmente ajudem o usuário.
 
 ---
 
-### 📫 Contato / Contact:
+### 💻 No que estou trabalhando agora:
+
+* 📊 **Dados & BI:** Especializando-me em transformar informações em decisões através de SQL e Power BI.
+* 🐍 **Desenvolvimento & IA:** Construindo lógica e automações com Python, focada em aplicações de Inteligência Artificial.
+* 💡 **Tecnologia Aplicada:** Explorando como o desenvolvimento de software e a análise de dados podem otimizar processos e negócios.
+
+---
+
+### 🛠 Tecnologias e Ferramentas:
+
+* **Linguagens:** Python (Lógica e Automação), SQL (Bancos de Dados).
+* **Análise de Dados:** Power BI, Fundamentos de Ciência de Dados e BI.
+* **Versão e Código:** Git, GitHub, VS Code.
+* **Conceitos:** Algoritmos, Estruturas de Dados e Experiência do Usuário (UX).
+
+---
+
+### 🎯 Objetivos de Carreira:
+
+Estou em busca de um ** Oportunidade Profissional** na área de Tecnologia. Tenho grande interesse em atuar com **Engenharia de Software, Análise de Dados ou Inovação**, onde eu possa aplicar meu esforço e minha vontade de aprender em projetos reais.
+
+---
+
+### 📫 Vamos nos conectar?
 
 * **E-mail:** narayaneferreirafrancisco@gmail.com
 * **Telefone/WhatsApp:** +55 31 9 8842-6884
-* **LinkedIn:** [https://www.linkedin.com/in/narayane-ferreira-b4bb04156/]
-* **Location:** Belo Horizonte, MG - Brazil 🇧🇷
+* **LinkedIn:** [Narayane Ferreira - Clique aqui](https://www.linkedin.com/in/narayane-ferreira-francisco-5a7a93202/) 
+* **Localização:** Belo Horizonte, MG (Disponível para modelos presenciais ou híbridos)
 
 ---
 
-> "Minha bagagem administrativa e o contato direto com pessoas me deram a base para resolver problemas com foco no impacto humano."
+> "Minha bagagem administrativa e o contato direto com pessoas me deram a base para resolver problemas com foco no que realmente importa: o impacto humano."
+ 
