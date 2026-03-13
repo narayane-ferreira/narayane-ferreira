@@ -37,7 +37,7 @@ Estou em busca de **Oportunidades Profissionais** na área de Tecnologia. Tenho 
 
 * **E-mail:** narayaneferreirafrancisco@gmail.com
 * **Telefone/WhatsApp:** +55 31 9 8842-6884
-* **LinkedIn:** [Narayane Ferreira - Clique aqui](https://www.linkedin.com/in/narayane-ferreira-francisco-5a7a93202/) 
+* **LinkedIn:** [https://www.linkedin.com/in/narayane-ferreira-b4bb04156/](https://www.linkedin.com/in/narayane-ferreira-b4bb04156/) 
 * **Localização:** Belo Horizonte, MG (Disponível para modelos presenciais ou híbridos)
 
 ---
