@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Cotemig
 
 ### 🚀 Sobre mim e meu Mindset:
 
-Sou uma pessoa **extremamente esforçada**, focada em evoluir pessoal e profissionalmente através do aprendizado contínuo. Minha experiência com o público me deu a empatia necessária para criar soluções tecnológicas que realmente ajudam as pessoas.
+*Sou uma pessoa **extremamente esforçada**, focada em evoluir pessoal e profissionalmente através do aprendizado contínuo. Minha experiência com o público me deu a empatia necessária para criar soluções tecnológicas que realmente ajudam as pessoas.
 ---
 
 ### 💻 No que estou trabalhando agora:
